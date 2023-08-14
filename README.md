@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Muhammad-Bilal99
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on frontend projects.
-- 📫 How to reach me? Send an email here beastop975@gmail.com 
-
-<!---
-Muhammad-Bilal99/Muhammad-Bilal99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey, My name is Muhammad Bilal.
+I am a young passionate web developer.
+I have expertise over HTML CSS ans JavaScript.
+Feel free to contact me for any sort of work related to web development.
+My E-mail: beastop975@gmail.com
